@@ -6,9 +6,9 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
         System.out.println("COK");
+        System.out.println("COKKKKKKKKKKKKKKKKKKKKKKKKKK");
         System.out.println("COK");
-        System.out.println("COK");
-        System.out.println("COK");      
+        System.out.println("COOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOK");
         System.out.println("COK");
         System.out.println("COK");
         System.out.println("COK");
