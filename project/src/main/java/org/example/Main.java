@@ -12,7 +12,8 @@ public class Main {
         System.out.println("COK");
         System.out.println("COK");
         System.out.println("COK");
-        System.out.println("COK");
+        System.out.println("1111111111111111111111111111111111");
+
 
 
     }
